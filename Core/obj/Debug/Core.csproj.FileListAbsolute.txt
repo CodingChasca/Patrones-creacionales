@@ -1,0 +1,5 @@
+C:\Users\hpelite\OneDrive\Documentos\UP\Septimo semestre\Patrones de diseño\Calculadora(Factory)\Core\bin\Debug\Core.dll
+C:\Users\hpelite\OneDrive\Documentos\UP\Septimo semestre\Patrones de diseño\Calculadora(Factory)\Core\bin\Debug\Core.pdb
+C:\Users\hpelite\OneDrive\Documentos\UP\Septimo semestre\Patrones de diseño\Calculadora(Factory)\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\hpelite\OneDrive\Documentos\UP\Septimo semestre\Patrones de diseño\Calculadora(Factory)\Core\obj\Debug\Core.dll
+C:\Users\hpelite\OneDrive\Documentos\UP\Septimo semestre\Patrones de diseño\Calculadora(Factory)\Core\obj\Debug\Core.pdb
